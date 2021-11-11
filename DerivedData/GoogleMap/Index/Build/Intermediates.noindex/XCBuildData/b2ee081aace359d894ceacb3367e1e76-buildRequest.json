@@ -1,0 +1,74 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "1ff88bd11f146785bab97f86a5b2342ffee7789844acbe2ed85b1721a81b3ba3"
+    },
+    {
+      "guid" : "1ff88bd11f146785bab97f86a5b2342f4ccdc65b37d3a87a94c92db26fbb06c8"
+    },
+    {
+      "guid" : "1ff88bd11f146785bab97f86a5b2342f2a97eda7ddcdf08b4ac2f3a3439b68de"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd426cc6e5e710560511e4ab4b710b9e1ee4"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42a95a526e98d0cf2f608e04b62a6ddd8e"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd421b17df076d1896cef92ce9913c56791c"
+    }
+  ],
+  "containerPath" : "/Volumes/Samsung_T5/GeekSalon/GeekSalon_iOS/GoogleMap/GoogleMap.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Volumes/Samsung_T5/GeekSalon/GeekSalon_iOS/GoogleMap/DerivedData/GoogleMap/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Volumes/Samsung_T5/GeekSalon/GeekSalon_iOS/GoogleMap/DerivedData/GoogleMap/Index/Build/Products",
+      "derivedDataPath" : "/Volumes/Samsung_T5/GeekSalon/GeekSalon_iOS/GoogleMap/DerivedData",
+      "indexDataStoreFolderPath" : "/Volumes/Samsung_T5/GeekSalon/GeekSalon_iOS/GoogleMap/DerivedData/GoogleMap/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Volumes/Samsung_T5/GeekSalon/GeekSalon_iOS/GoogleMap/DerivedData/GoogleMap/Index/PrecompiledHeaders",
+      "pchPath" : "/Volumes/Samsung_T5/GeekSalon/GeekSalon_iOS/GoogleMap/DerivedData/GoogleMap/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Volumes/Samsung_T5/GeekSalon/GeekSalon_iOS/GoogleMap/DerivedData/GoogleMap/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

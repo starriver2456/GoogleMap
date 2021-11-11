@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1C44B530-A441-4ED2-9C13-A58CDF680917</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1C44B530-A441-4ED2-9C13-A58CDF680917.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Pods-GoogleMapTests Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658307119.32362604</real>
+			<key>timeStoppedRecording</key>
+			<real>658307119.45574403</real>
+			<key>title</key>
+			<string>Pods-GoogleMapTests Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>1C44B530-A441-4ED2-9C13-A58CDF680917</string>
+		</dict>
+		<key>D55CFA68-296C-4A27-B0E5-949276EB3D8E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D55CFA68-296C-4A27-B0E5-949276EB3D8E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GoogleMap Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>658307096.31782806</real>
+			<key>timeStoppedRecording</key>
+			<real>658307102.59025896</real>
+			<key>title</key>
+			<string>GoogleMap Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>D55CFA68-296C-4A27-B0E5-949276EB3D8E</string>
+		</dict>
+		<key>DC133647-42D1-4102-AB01-CDBE7633AF77</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DC133647-42D1-4102-AB01-CDBE7633AF77.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>658307110.14284694</real>
+			<key>timeStoppedRecording</key>
+			<real>658307111.50577605</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>DC133647-42D1-4102-AB01-CDBE7633AF77</string>
+		</dict>
+		<key>E203DC68-6DB7-4AF9-B9E4-A985D2DE326B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E203DC68-6DB7-4AF9-B9E4-A985D2DE326B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Pods-GoogleMap-GoogleMapUITests Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658307119.07699096</real>
+			<key>timeStoppedRecording</key>
+			<real>658307119.321334</real>
+			<key>title</key>
+			<string>Pods-GoogleMap-GoogleMapUITests Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E203DC68-6DB7-4AF9-B9E4-A985D2DE326B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

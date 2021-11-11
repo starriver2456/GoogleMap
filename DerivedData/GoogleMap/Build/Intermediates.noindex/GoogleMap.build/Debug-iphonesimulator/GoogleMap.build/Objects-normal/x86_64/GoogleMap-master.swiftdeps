@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "8e048a48874afb53603a985bcca9287af718846c3701b3cc73769b96dbdeb4a9"
+build_start_time: [1636614313, 880203008]
+build_end_time: [1636614319, 741355895]
+inputs:
+  "/Volumes/Samsung_T5/GeekSalon/GeekSalon_iOS/GoogleMap/GoogleMap/AppDelegate.swift": [1632561567, 369999885]
+  "/Volumes/Samsung_T5/GeekSalon/GeekSalon_iOS/GoogleMap/GoogleMap/MapViewController.swift": [1632789175, 750000000]
+  "/Volumes/Samsung_T5/GeekSalon/GeekSalon_iOS/GoogleMap/GoogleMap/SceneDelegate.swift": [1625482519, 590000152]
+  "/Volumes/Samsung_T5/GeekSalon/GeekSalon_iOS/GoogleMap/GoogleMap/ViewController.swift": [1632555933, 450000047]

@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+GoogleMaps in Pods, no dependencies
+GooglePlaces in Pods, no dependencies
+Pods-GoogleMap in Pods, depends on:
+GoogleMaps in Pods (explicit)
+GooglePlaces in Pods (explicit)
+GoogleMap in GoogleMap, depends on:
+Pods-GoogleMap in Pods (implicit dependency via file 'Pods_GoogleMap.framework' in build phase 'Link Binary')

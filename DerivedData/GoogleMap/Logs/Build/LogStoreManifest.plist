@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>48555190-753F-4D58-896F-93E08094A85F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>48555190-753F-4D58-896F-93E08094A85F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoogleMap project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoogleMap</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean GoogleMap</string>
+			<key>timeStartedRecording</key>
+			<real>658307094.243752</real>
+			<key>timeStoppedRecording</key>
+			<real>658307095.11327195</real>
+			<key>title</key>
+			<string>Clean GoogleMap</string>
+			<key>uniqueIdentifier</key>
+			<string>48555190-753F-4D58-896F-93E08094A85F</string>
+		</dict>
+		<key>88206D35-6C48-4D9F-BDBB-8EE4F921008F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>88206D35-6C48-4D9F-BDBB-8EE4F921008F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoogleMap project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoogleMap</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoogleMap</string>
+			<key>timeStartedRecording</key>
+			<real>654481915.325822</real>
+			<key>timeStoppedRecording</key>
+			<real>654481921.69207597</real>
+			<key>title</key>
+			<string>Build GoogleMap</string>
+			<key>uniqueIdentifier</key>
+			<string>88206D35-6C48-4D9F-BDBB-8EE4F921008F</string>
+		</dict>
+		<key>906BA82C-3FD9-4018-AD88-FB0FF0F6DC44</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>906BA82C-3FD9-4018-AD88-FB0FF0F6DC44.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoogleMap project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoogleMap</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoogleMap</string>
+			<key>timeStartedRecording</key>
+			<real>658305803.68259799</real>
+			<key>timeStoppedRecording</key>
+			<real>658305817.05031204</real>
+			<key>title</key>
+			<string>Build GoogleMap</string>
+			<key>uniqueIdentifier</key>
+			<string>906BA82C-3FD9-4018-AD88-FB0FF0F6DC44</string>
+		</dict>
+		<key>9672EE24-DAA8-4319-8B44-5E90FB6B4261</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9672EE24-DAA8-4319-8B44-5E90FB6B4261.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoogleMap project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoogleMap</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GoogleMap</string>
+			<key>timeStartedRecording</key>
+			<real>658307111.98873794</real>
+			<key>timeStoppedRecording</key>
+			<real>658307125.44095099</real>
+			<key>title</key>
+			<string>Build GoogleMap</string>
+			<key>uniqueIdentifier</key>
+			<string>9672EE24-DAA8-4319-8B44-5E90FB6B4261</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

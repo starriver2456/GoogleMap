@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0D5DB7D7-5709-46F0-B5B3-7477509295D6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0D5DB7D7-5709-46F0-B5B3-7477509295D6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoogleMap project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoogleMap</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run GoogleMap</string>
+			<key>timeStartedRecording</key>
+			<real>658307126.80444705</real>
+			<key>timeStoppedRecording</key>
+			<real>658307181.94323599</real>
+			<key>title</key>
+			<string>Run GoogleMap</string>
+			<key>uniqueIdentifier</key>
+			<string>0D5DB7D7-5709-46F0-B5B3-7477509295D6</string>
+		</dict>
+		<key>D829565E-12B0-4228-8630-66999F4EF7A4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D829565E-12B0-4228-8630-66999F4EF7A4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoogleMap project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoogleMap</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run GoogleMap</string>
+			<key>timeStartedRecording</key>
+			<real>654481922.14417398</real>
+			<key>timeStoppedRecording</key>
+			<real>654482332.14235902</real>
+			<key>title</key>
+			<string>Run GoogleMap</string>
+			<key>uniqueIdentifier</key>
+			<string>D829565E-12B0-4228-8630-66999F4EF7A4</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

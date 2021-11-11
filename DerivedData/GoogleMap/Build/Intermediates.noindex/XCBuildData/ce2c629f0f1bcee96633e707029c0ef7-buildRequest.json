@@ -1,0 +1,63 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "1ff88bd11f146785bab97f86a5b2342ffee7789844acbe2ed85b1721a81b3ba3"
+    }
+  ],
+  "containerPath" : "/Volumes/Samsung_T5/GeekSalon/GeekSalon_iOS/GoogleMap/GoogleMap.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Volumes/Samsung_T5/GeekSalon/GeekSalon_iOS/GoogleMap/DerivedData/GoogleMap/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Volumes/Samsung_T5/GeekSalon/GeekSalon_iOS/GoogleMap/DerivedData/GoogleMap/Build/Products",
+      "derivedDataPath" : "/Volumes/Samsung_T5/GeekSalon/GeekSalon_iOS/GoogleMap/DerivedData",
+      "indexDataStoreFolderPath" : "/Volumes/Samsung_T5/GeekSalon/GeekSalon_iOS/GoogleMap/DerivedData/GoogleMap/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Volumes/Samsung_T5/GeekSalon/GeekSalon_iOS/GoogleMap/DerivedData/GoogleMap/Index/PrecompiledHeaders",
+      "pchPath" : "/Volumes/Samsung_T5/GeekSalon/GeekSalon_iOS/GoogleMap/DerivedData/GoogleMap/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone12,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.0",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "157BFEE9-7F93-4ADD-AB4A-6DDE46FC0CA2",
+          "TARGET_DEVICE_MODEL" : "iPhone12,1",
+          "TARGET_DEVICE_OS_VERSION" : "15.0",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
